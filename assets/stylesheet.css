@@ -27,6 +27,15 @@ header {
     background-size: cover;
 }
 
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(209, 136, 0);
+    font-size: 50px;
+    text-align: center;
+    margin-top: 5px;
+    text-decoration: underline;
+}
+
 .banner {
     align-items: center;
     justify-content: center;
@@ -62,6 +71,52 @@ h2 {
     text-align: center;
     padding: 10px;
     margin-top: 5px;
+}
+#about-me-content {
+    background-color: rgb(239, 239, 239);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: medium;
+    color: rgb(101, 101, 101);
+}
+
+#Projects h5 {
+    color: rgb(221, 144, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+
+}
+#Projects p {
+    color: rgb(255, 194, 81);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+}
+#Resume a {
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#Resume {
+    background-color: rgb(233, 233, 233);
+}
+
+#resume h4 {
+    color: rgb(251, 178, 41);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+#resume h5 {
+    color: rgb(255, 216, 169);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: small;
+}
+
+#Resume li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(101, 101, 101);
+    font-style: italic;
+    margin: 5px;
+    padding: 1;
 }
 
 .grid-container {
