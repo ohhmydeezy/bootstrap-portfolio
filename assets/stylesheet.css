@@ -10,7 +10,7 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: white;
     font-size: 20px;
-    position: absolute;
+    position: relative;
     top: 0%;
     width: 100%;
 }
@@ -94,6 +94,7 @@ h2 {
 #Resume a {
     text-decoration: none;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
 }
 #Resume {
     background-color: rgb(233, 233, 233);
